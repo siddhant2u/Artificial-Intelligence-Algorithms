@@ -9,3 +9,6 @@ The search algorithms in this section have no additional information on the goal
 
 Uniform Cost Search: 
 UCS is different from BFS and DFS because here the costs come into play. In other words, traversing via different edges might not have the same cost. The goal is to find a path where the cumulative sum of costs is the least. 
+
+
+More Details on: https://www.geeksforgeeks.org/search-algorithms-in-ai/?ref=lbp

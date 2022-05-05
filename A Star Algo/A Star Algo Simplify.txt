@@ -1,0 +1,11 @@
+1: Firstly, Place the starting node into OPEN and find its f (n) value.
+
+2: Then remove the node from OPEN, having the smallest f (n) value. If it is a goal node, then stop and return to success.
+
+3: Else remove the node from OPEN, and find all its successors.
+
+4: Find the f (n) value of all the successors, place them into OPEN, and place the removed node into CLOSE.
+
+5: Goto Step-2.
+
+6: Exit.
